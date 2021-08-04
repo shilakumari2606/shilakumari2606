@@ -8,11 +8,17 @@
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="150">
   <br>
   <br>
+  <img src="https://media.giphy.com/media/V8y1y1FzxDETVUtQE4/giphy.gif" width="150">
+  <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="150">
+  <img src="https://media.giphy.com/media/fA8LPNo91PdgTxRMOo/giphy.gif" width="150">
+  
   </p>
  
                                                                                
 <br>
 <br>
+
+
                                                                               
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=shilakumari2606)
